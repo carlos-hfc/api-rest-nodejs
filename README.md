@@ -40,6 +40,8 @@ npm install
 4. Crie um arquivo `.env.local` na raiz do projeto e adicione as seguinte chaves:
 
 ```env
+NODE_ENV=""
+DATABASE_URL=""
 ```
 
 5. Rode a aplicação
