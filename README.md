@@ -62,8 +62,8 @@ npm run dev
 ### Regras de negócio
 
 - :ballot_box_with_check: A transação pode ser do tipo crédito que somará ao valor total, ou débito, que subtrairá
-- :white_large_square: Deve ser possível identificar o usuário entre as requisições
-- :white_large_square: O usuário só pode vistualizar transações criadas por ele
+- :ballot_box_with_check: Deve ser possível identificar o usuário entre as requisições
+- :ballot_box_with_check: O usuário só pode visualizar transações criadas por ele
 
 ## :computer: Tecnologias utilizadas
 
