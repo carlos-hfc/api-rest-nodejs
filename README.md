@@ -54,14 +54,14 @@ npm run dev
 
 ### Requisitos funcionais
 
-- :white_large_square: O usuário pode criar uma nova transação
+- :ballot_box_with_check: O usuário pode criar uma nova transação
 - :white_large_square: O usuário pode obter um resumo da sua conta
-- :white_large_square: O usuário pode listar todas as transações que já ocorreram
-- :white_large_square: O usuário pode visualizar uma transação única
+- :ballot_box_with_check: O usuário pode listar todas as transações que já ocorreram
+- :ballot_box_with_check: O usuário pode visualizar uma transação única
 
 ### Regras de negócio
 
-- :white_large_square: A transação pode ser do tipo crédito que somará ao valor total, ou débito, que subtrairá
+- :ballot_box_with_check: A transação pode ser do tipo crédito que somará ao valor total, ou débito, que subtrairá
 - :white_large_square: Deve ser possível identificar o usuário entre as requisições
 - :white_large_square: O usuário só pode vistualizar transações criadas por ele
 
