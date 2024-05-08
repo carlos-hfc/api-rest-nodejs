@@ -55,7 +55,7 @@ npm run dev
 ### Requisitos funcionais
 
 - :ballot_box_with_check: O usuário pode criar uma nova transação
-- :white_large_square: O usuário pode obter um resumo da sua conta
+- :ballot_box_with_check: O usuário pode obter um resumo da sua conta
 - :ballot_box_with_check: O usuário pode listar todas as transações que já ocorreram
 - :ballot_box_with_check: O usuário pode visualizar uma transação única
 
